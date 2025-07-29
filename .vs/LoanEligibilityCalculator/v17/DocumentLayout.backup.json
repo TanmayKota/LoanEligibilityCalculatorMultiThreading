@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\loaneligibilitycalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\loaneligibilitycalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\controller\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\controller\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\service\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\service\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\service\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\service\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\models\\fakeloandatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\models\\fakeloandatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\models\\loanresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\models\\loanresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|c:\\users\\tanmay\\desktop\\c#\\loaneligibilitycalculator\\loaneligibilitycalculator\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7B8F7D-2CF4-4842-A6FD-5D09DAFB5DD4}|LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj|solutionrelative:loaneligibilitycalculator\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Program.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:11:03.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Controller\\LoanController.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Controller\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Controller\\LoanController.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Controller\\LoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:10:56.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Service\\LoanService.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Service\\LoanService.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Service\\LoanService.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Service\\LoanService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:10:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Service\\ILoanService.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Service\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Service\\ILoanService.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Service\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:10:00.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanEligibilityCalculator",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj",
+              "RelativeToolTip": "LoanEligibilityCalculator\\LoanEligibilityCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T20:09:41.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeLoanDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\FakeLoanDatabase.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Models\\FakeLoanDatabase.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\FakeLoanDatabase.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Models\\FakeLoanDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:09:20.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanResult.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\LoanResult.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Models\\LoanResult.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\LoanResult.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Models\\LoanResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:09:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Models\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\UserAccount.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Models\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:08:57.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "LoanEligibilityCalculator\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\C#\\LoanEligibilityCalculator\\LoanEligibilityCalculator\\Models\\Transaction.cs",
+              "RelativeToolTip": "LoanEligibilityCalculator\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:08:47.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
